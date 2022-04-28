@@ -5,6 +5,7 @@
 
 ## 기술 스택
 > ##### SpringBoot (IntelliJ) [Server]
+> ##### Spring WebFlux
 > ##### Html, Css, Javascript (Client)
 > ##### MongoDB(NoSQL)
 > ##### Ajax 통신 (fetch)
