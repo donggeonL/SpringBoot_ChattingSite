@@ -8,7 +8,7 @@
 > ##### Spring WebFlux
 > ##### Html, Css, Javascript (Client)
 > ##### MongoDB(NoSQL)
-> ##### Ajax 통신 (fetch)
+> ##### 비동기 통신 (fetch)
 > ##### BootStrap
 
 ## 서비스 구현
